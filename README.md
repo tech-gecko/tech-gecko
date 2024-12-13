@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **React, HTML and CSS. Aspiring to be a competent full-stack developer**
 
-- 📝 I regularly write articles on [techgecko.hashnode.dev, https://medium.com/@w0nderzz2001](techgecko.hashnode.dev, https://medium.com/@w0nderzz2001)
+- 📝 I regularly write articles on:
+  - [Hashnode](https://techgecko.hashnode.dev)
+  - [Medium](https://medium.com/@TechGecko)
 
 - 💬 Ask me about **C, Python, Flask, Node.js, Express.js**
 
-- 📫 How to reach me **w0nderzz2001@gmail.com**
+- 📫 How to reach me: [Mail](mailto:w0nderzz2001@gmail.com)
 
-- ⚡ Fun fact **I learn faster than anyone I know**
+- ⚡ Fun fact: **I learn faster than anyone I know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
