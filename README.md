@@ -10,7 +10,7 @@ Hi, I'm TechGecko <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 
 - 🔭 I’m currently working on **Trakit, a subscription tracker (web app)**
 
-- 🌱 I’m currently learning **React, HTML and CSS.**
+- 🌱 I’m currently learning **React and other widely used frontend technologies.**
 
 - 📝 I regularly write articles on:
   - [Hashnode](https://techgecko.hashnode.dev)
