@@ -8,7 +8,7 @@ Hi, I'm TechGecko <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h3 align="center">A visionary backend developer from Nigeria certified by ALX</h3>
 
-- 🔭 I’m currently working on **Trakit, a subscription tracker (web app)**
+- 🔭 I’m currently working on **Flash Sales System (as the name implies).**
 
 - 🌱 I’m currently learning **React and other widely used frontend technologies.**
 
