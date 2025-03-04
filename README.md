@@ -8,7 +8,7 @@ Hi, I'm TechGecko <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h3 align="center">A visionary backend developer from Nigeria certified by ALX</h3>
 
-- 🔭 I’m currently working on **Flash Sales System (as the name implies).**
+- 🔭 I’m currently working on **flash_sales_api, a flash sales system API.**
 
 - 🌱 I’m currently learning **React and other widely used frontend technologies.**
 
@@ -16,7 +16,7 @@ Hi, I'm TechGecko <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
   - [Hashnode](https://techgecko.hashnode.dev)
   - [Medium](https://medium.com/@TechGecko)
 
-- 💬 Ask me about **C, Python, Flask, Node.js, Express.js**
+- 💬 Ask me about **C, Python, Flask, Node.js, Express.js.**
 
 - 📫 How to reach me: [Mail](mailto:w0nderzz2001@gmail.com)
 
